@@ -7,10 +7,10 @@ A Vue application utilizing a D3.js generated svg map with interaction and zoom
 - npm run serve
 
 ## Resources
-[Vue.js v3\](https://vuejs.org/)
-[D3.js v6.7\](https://d3js.org/)
-[TopoJson Library](https://github.com/topojson)
-[U.S. Atlas TopoJson](https://github.com/topojson/us-atlas)
+- [Vue.js v3\](https://vuejs.org/)
+- [D3.js v6.7\](https://d3js.org/)
+- [TopoJson Library](https://github.com/topojson)
+- [U.S. Atlas TopoJson](https://github.com/topojson/us-atlas)
 
 ## Methodology
 Don't try to force D3 into Vue components. Create a div in a Vue component template to anchor d3.select() on and away you go. Just wire in your regular old .js file with your vanilla D3 and call it in the Vue component's mounted() cycle. 
