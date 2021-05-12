@@ -7,8 +7,8 @@ A Vue application utilizing a D3.js generated svg map with interaction and zoom
 - npm run serve
 
 ## Resources
-[Vue.js v3](https://vuejs.org/)
-[D3.js v6.7](https://d3js.org/)
+[Vue.js v3_](https://vuejs.org/)
+[D3.js v6.7_](https://d3js.org/)
 [TopoJson Library](https://github.com/topojson)
 [U.S. Atlas TopoJson](https://github.com/topojson/us-atlas)
 
